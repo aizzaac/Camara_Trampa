@@ -9,3 +9,6 @@ Materiales:
 * Tarjeta Google Coral
 * Cámara Google Coral
 * PC con Elasticsearch instalado 
+
+Demo:
+coralito_explorando_mundos.pdf
