@@ -11,4 +11,4 @@ Materiales:
 * PC con Elasticsearch instalado 
 
 Demo:
-coralito_explorando_mundos.pdf
+Cámara_trampa.pdf
