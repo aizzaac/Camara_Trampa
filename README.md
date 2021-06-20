@@ -5,6 +5,8 @@ It can also be used in smart city applications:
   to the server.
 * Fire detection: when a change in temperature is detected, the camera will activate to verify if there is a risk of fire. If it is the case, an alert will be sent to a server.
 
+[![Project Demo](./images/CameraTrap_scheme2.png)](Cámara_trampa.pdf)]
+
 # Pre-requisites
 * [Google Coral devboard](https://coral.ai/products/dev-board)
 * [Google Coral camera](https://coral.ai/products/camera/)
@@ -19,13 +21,10 @@ It can also be used in smart city applications:
 4. Send inference result, classification models' name and TPU’s temperature to remote computer
 5. Visualize results within a dashboard, using Elasticsearch
 
-
+[![Project Demo](./images/CameraTrap_scheme.png)](Cámara_trampa.pdf)]
 
 
 
 # Notes
-****"classify.py" and "snapshot.py" were written by Google
+"classify.py" and "snapshot.py" were written by Google
 
-
-Demo:
-Cámara_trampa.pdf
