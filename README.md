@@ -1,5 +1,6 @@
 # Camera trap
-A camera trap is a camera, that is automatically triggered by a change in some activity in its vicinity, like presence of animals (environmental monitoring).
+A [camera trap](https://www.worldwildlife.org/initiatives/camera-traps) is a camera, that is automatically triggered by a change in some activity in its vicinity, like presence of animals (environmental monitoring). It is typically equipped with a motion sensor, for example a passive infrared (PIR) sensor or an active infrared (AIR) sensor using an infrared light beam.
+
 It can also be used in smart city applications: 
 * Counting humans: in a high security environment, when sound or movement is detected, the camera will turn on to take a photo, and an alert with the number of people will be sent
   to the server.
@@ -27,4 +28,3 @@ It can also be used in smart city applications:
 
 # Notes
 "classify.py" and "snapshot.py" were written by Google
-
