@@ -28,6 +28,7 @@ It can also be used in smart city applications:
 5. Visualize results within a dashboard, using Elasticsearch
 
 [![Project Demo](./images/CameraTrap_scheme.png)](Cámara_trampa.pdf)
+[![Project Demo](./images/CameraTrap_scheme3.png)](Cámara_trampa.pdf)
 
 
 
